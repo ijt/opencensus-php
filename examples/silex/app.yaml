@@ -1,0 +1,2 @@
+runtime: php72
+entrypoint: serve web/index.php
